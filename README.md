@@ -29,3 +29,8 @@ Talk: Usefulness of Uselessness [*slides*](http://www.wholepixel.com/webdevcon/i
 Speaker: Rachel White [@ohhoe](https://twitter.com/ohhoe)
 
 Talk: Internet of Cats [*RoboKitty repo*](https://github.com/rachelnicole/robokitty)
+
+## Building Distributed RESTful JSON APIs with Falcor
+Speaker: Paul Taylor [@trxcllnt](https://twitter.com/trxcllnt)
+
+Talk: Building Distributed RESTful JSON APIs with Falcor [*WebDevCon Demo reop*](https://github.com/trxcllnt/webdevcon-demo)
