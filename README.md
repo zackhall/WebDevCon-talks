@@ -33,4 +33,4 @@ Talk: Internet of Cats [*RoboKitty repo*](https://github.com/rachelnicole/roboki
 ## Building Distributed RESTful JSON APIs with Falcor
 Speaker: Paul Taylor [@trxcllnt](https://twitter.com/trxcllnt)
 
-Talk: Building Distributed RESTful JSON APIs with Falcor [*WebDevCon Demo reop*](https://github.com/trxcllnt/webdevcon-demo)
+Talk: Building Distributed RESTful JSON APIs with Falcor [*WebDevCon Demo repo*](https://github.com/trxcllnt/webdevcon-demo)
