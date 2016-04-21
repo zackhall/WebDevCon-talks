@@ -23,3 +23,9 @@ Talk: Unit Testing CSS [*slides*](https://github.com/honzie/testing-the-cascade)
 Speaker: Brad Bouse [@bradbouse](https://twitter.com/bradbouse)
 
 Talk: Usefulness of Uselessness [*slides*](http://www.wholepixel.com/webdevcon/index.html#/)
+
+
+## Internet of Cats
+Speaker: Rachel White [@ohhoe](https://twitter.com/ohhoe)
+
+Talk: Internet of Cats [*RoboKitty repo*](https://github.com/rachelnicole/robokitty)
