@@ -11,3 +11,4 @@ A collection of the slides and resources at Amazon's WebDevCon
 | Usefulness of Uselessness | Brad Bouse [@bradbouse](https://twitter.com/bradbouse) | [*slides*](http://www.wholepixel.com/webdevcon/index.html#/) | |
 | Internet of Cats | Rachel White [@ohhoe](https://twitter.com/ohhoe) | [*slides*](http://imcool.online/robokitty/robokitty-slides.pdf) | [*RoboKitty repo*](https://github.com/rachelnicole/robokitty) |
 | Building Distributed RESTful JSON APIs with Falcor | Paul Taylor [@trxcllnt](https://twitter.com/trxcllnt) | | [*WebDevCon Demo repo*](https://github.com/trxcllnt/webdevcon-demo) |
+| Design for non Designers | Tracy Osborn [@limedaring](https://twitter.com/limedaring) | [*slides*](https://twitter.com/limedaring) | |
