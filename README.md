@@ -11,3 +11,9 @@ Talk: Web Fonts Performance [*slides*](https://speakerdeck.com/bramstein/web-fon
 Speaker: Clarissa Peterson [@clarissa](https://twitter.com/clarissa)
 
 Talk: Responsive Color [*slides*](http://www.slideshare.net/clarissapeterson/colorincss)
+
+
+## Usefulness of Uselessness
+Speaker: Brad Bouse [@bradbouse](https://twitter.com/bradbouse)
+
+Talk: Usefulness of Uselessness [*slides*](http://www.wholepixel.com/webdevcon/index.html#/)
