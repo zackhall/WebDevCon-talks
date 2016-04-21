@@ -13,6 +13,12 @@ Speaker: Clarissa Peterson [@clarissa](https://twitter.com/clarissa)
 Talk: Responsive Color [*slides*](http://www.slideshare.net/clarissapeterson/colorincss)
 
 
+## Testing the Cascade
+Speaker: Hans Sprecher [@honzie](https://twitter.com/honzie)
+
+Talk: Unit Testing CSS [*slides*](https://github.com/honzie/testing-the-cascade)
+
+
 ## Usefulness of Uselessness
 Speaker: Brad Bouse [@bradbouse](https://twitter.com/bradbouse)
 
