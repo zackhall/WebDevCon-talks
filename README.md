@@ -13,3 +13,4 @@ A collection of the slides and resources at Amazon's WebDevCon
 | Building Distributed RESTful JSON APIs with Falcor | Paul Taylor [@trxcllnt](https://twitter.com/trxcllnt) | | [WebDevCon Demo repo](https://github.com/trxcllnt/webdevcon-demo) |
 | Design for non Designers | Tracy Osborn [@limedaring](https://twitter.com/limedaring) | [slides](https://twitter.com/limedaring) | |
 | Simply Accessible Web Performance | Estelle Weyl [@estellevw](https://twitter.com/estellevw) | [slides](http://instartlogic.github.io/p/webdevcon/#slide1) | |
+|Observable web| Ganesh Shanmugasundaram [@hackerone](https://twitter.com/hackerone) |[slides] (https://hackerone.github.io/observable-web) ||
